@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "category": "Cricket Player",
+    "name": "Marshafi Bin Mortoza",
+    "Place": "Captain",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Cricket Player",
+    "name": "Liton qumar Das",
+    "Place": "Batsman",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://pbs.twimg.com/media/Fi-EZ7raUAAvghG.jpg:large"
+  },
+  {
+    "id": 3,
+    "category": "Cricket Player",
+    "name": "Musfiqur Rahim",
+    "Place": "Wicket Keeper",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://aniportalimages.s3.amazonaws.com/media/details/Mushfiqur_Rahim_March_5_1zVP3SI.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Cricket Player",
+    "name": "Sakib Al Hassan",
+    "Place": "All rounder",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893396-e1520011475170.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Cricket Player",
+    "name": "Tamim iqbal",
+    "Place": "Batsman",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://images.news18.com/ibnlive/uploads/2022/07/tamim-iqbal-announces-retirement-from-t20is.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Cricket Player",
+    "name": "Mhedi Miraz",
+    "Place": "All Rounder",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://biographybd.com/wp-content/uploads/2022/12/Mehedi-Hasan-Miraz-1.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Cricket Player",
+    "name": "Mahmudullah Riyad",
+    "Place": "All Rounder",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://www.daily-sun.com/assets/news_images/2023/03/13/Mahmudullah_Riyad.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Cricket Player",
+    "name": "Mostafizur Rahman",
+    "Place": "Boller",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://pbs.twimg.com/media/FMNrDdZaAAEBmRP.jpg:large"
+  },
+  {
+    "id": 9,
+    "category": "Cricket Player",
+    "name": "Marshafi Bin Mortoza",
+    "Place": "Captain",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Cricket Player",
+    "name": "Marshafi Bin Mortoza",
+    "Place": "Captain",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+  },
+  {
+    "id": 11,
+    "category": "Cricket Player",
+    "name": "Marshafi Bin Mortoza",
+    "Place": "Captain",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+  },
+  {
+    "id": 12,
+    "category": "Cricket Player",
+    "name": "Marshafi Bin Mortoza",
+    "Place": "Captain",
+    "price-c": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+  }
+]
