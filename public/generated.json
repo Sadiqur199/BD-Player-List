@@ -4,7 +4,7 @@
     "category": "Cricket Player",
     "name": "Marshafi Bin Mortoza",
     "Place": "Captain",
-    "price-c": 1000000,
+    "price": 1000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
@@ -15,120 +15,186 @@
     "category": "Cricket Player",
     "name": "Liton qumar Das",
     "Place": "Batsman",
-    "price-c": 1000000,
+    "price": 2000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://pbs.twimg.com/media/Fi-EZ7raUAAvghG.jpg:large"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319727.png"
   },
   {
     "id": 3,
     "category": "Cricket Player",
-    "name": "Musfiqur Rahim",
-    "Place": "Wicket Keeper",
-    "price-c": 1000000,
+    "name": "Mohammad Mushfiqur Rahim",
+    "Place": "Wicket Keeper & Bastman",
+    "price": 3000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://aniportalimages.s3.amazonaws.com/media/details/Mushfiqur_Rahim_March_5_1zVP3SI.jpg"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316578.png"
   },
   {
     "id": 4,
     "category": "Cricket Player",
     "name": "Sakib Al Hassan",
     "Place": "All rounder",
-    "price-c": 1000000,
+    "price": 4000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893396-e1520011475170.jpg"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316581.png"
   },
   {
     "id": 5,
     "category": "Cricket Player",
     "name": "Tamim iqbal",
     "Place": "Batsman",
-    "price-c": 1000000,
+    "price": 5000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://images.news18.com/ibnlive/uploads/2022/07/tamim-iqbal-announces-retirement-from-t20is.jpg"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316583.png"
   },
   {
     "id": 6,
     "category": "Cricket Player",
     "name": "Mhedi Miraz",
     "Place": "All Rounder",
-    "price-c": 1000000,
+    "price": 6000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://biographybd.com/wp-content/uploads/2022/12/Mehedi-Hasan-Miraz-1.jpg"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319728.png"
   },
   {
     "id": 7,
     "category": "Cricket Player",
     "name": "Mahmudullah Riyad",
     "Place": "All Rounder",
-    "price-c": 1000000,
+    "price": 200000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://www.daily-sun.com/assets/news_images/2023/03/13/Mahmudullah_Riyad.jpg"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316500/316571.png"
   },
   {
     "id": 8,
     "category": "Cricket Player",
     "name": "Mostafizur Rahman",
     "Place": "Boller",
-    "price-c": 1000000,
+    "price": 180000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://pbs.twimg.com/media/FMNrDdZaAAEBmRP.jpg:large"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319734.png"
   },
   {
     "id": 9,
     "category": "Cricket Player",
-    "name": "Marshafi Bin Mortoza",
-    "Place": "Captain",
-    "price-c": 1000000,
+    "name": "Taskin Ahmed",
+    "Place": "Bolwer",
+    "price": 1000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316700/316703.png"
   },
   {
     "id": 10,
     "category": "Cricket Player",
-    "name": "Marshafi Bin Mortoza",
-    "Place": "Captain",
-    "price-c": 1000000,
+    "name": "Towhid Ridoy",
+    "Place": "Bastman",
+    "price": 1000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+    "img": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/10/02/towhid_hridoy.jpg"
   },
   {
     "id": 11,
     "category": "Cricket Player",
-    "name": "Marshafi Bin Mortoza",
-    "Place": "Captain",
-    "price-c": 1000000,
+    "name": "Afif Hossain Dhrubo",
+    "Place": "All Rounder",
+    "price": 1000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323159.png"
   },
   {
     "id": 12,
     "category": "Cricket Player",
-    "name": "Marshafi Bin Mortoza",
-    "Place": "Captain",
-    "price-c": 1000000,
+    "name": "Mohammad Saifuddin",
+    "Place": "Bolwer",
+    "price": 1000000,
     "strick": 100,
     "ratings": 5,
     "ratingsCount": 3725,
-    "img": "https://i.pinimg.com/originals/1e/37/db/1e37db8929d548d45eca8653d83235bc.jpg"
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/322800/322800.png"
+  },
+  {
+    "id": 13,
+    "category": "Cricket Player",
+    "name": "Mosaddek Hossain Saikat",
+    "Place": "Middel Order Bastman",
+    "price": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/319700/319733.png"
+  },
+  {
+    "id": 14,
+    "category": "Cricket Player",
+    "name": "Taijul Islam",
+    "Place": "Bolwer",
+    "price": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316600/316675.png"
+  },
+  {
+    "id": 15,
+    "category": "Cricket Player",
+    "name": "Mohammad Nayeem Hasan",
+    "Place": "Bastman",
+    "price": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323170.png"
+  },
+  {
+    "id": 16,
+    "category": "Cricket Player",
+    "name": "Najmul Hossain Shanto",
+    "Place": "Bolwer",
+    "price": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323155.png"
+  },
+  {
+    "id": 17,
+    "category": "Cricket Player",
+    "name": "Hasan Mahmud",
+    "Place": "Bolwer",
+    "price": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/323100/323172.png"
+  },
+  {
+    "id": 18,
+    "category": "Cricket Player",
+    "name": "Mohammad Sabbir Rahman",
+    "Place": "Bolwer",
+    "price": 1000000,
+    "strick": 100,
+    "ratings": 5,
+    "ratingsCount": 3725,
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_640,q_50/lsci/db/PICTURES/CMS/316600/316665.png"
   }
 ]
