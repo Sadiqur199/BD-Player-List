@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react';
+import Add from '../AddPlayer/Add';
 import PlayerDetails from '../PlayerDelails/PlayerDetails';
 import './Player.css'
 
 const Player = () => {
   const [players,setPlayers] = useState([])
   const [addplayer ,setAddplayer] = useState([])
-  console.log(addplayer);
 
   useEffect(()=>{
     fetch('generated.json')
@@ -20,10 +20,11 @@ const Player = () => {
    
   return (
     <div className='player'>
-      <div className="products-container">
+      <div className="products-container ">
       {
         players.map(player=><PlayerDetails 
-          
+           
+          key = {player.id}
           name={player.name}
           player = {player}
           addedToPlayer = {addedToPlayer}
@@ -32,8 +33,7 @@ const Player = () => {
       </div>
 
       <div>
-        <h6>Player Summery</h6>
-        <p>Player length:{addplayer.length}</p>
+        <Add  players ={addplayer}></Add>
       </div>
 
     </div>
